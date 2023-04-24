@@ -18,6 +18,8 @@ Get the [latest CI release](https://github.com/NoName-exe/revanced-extended/rele
 
  ## Notes
 * YouTube Magisk Module is installed as a system app and requires a reboot to install/update.
+* dropped mircog-support patch for rooted devices as it is not needed
+* added premium heading branding and materialyou theme as it is disabled by default
 * YouTube-Music Magisk Module is installed as a user app and does not require a reboot to install/update.
 * Use [mindetach](https://github.com/j-hc/mindetach-magisk) to block Play Store from updating YouTube and YouTube-Music.
 * Non-root versions of YouTube and YouTube-Music require [Vanced MicroG](https://github.com/inotia00/VancedMicroG/releases/latest) to work.
