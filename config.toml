@@ -9,7 +9,7 @@ rv-brand = "ReVanced eXtended"
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
-build-mode = "moudle"                                                 # 'both', 'apk' or 'module'
+build-mode = "module"                                                 # 'both', 'apk' or 'module'
 excluded-patches = "microg-support"                                   # whitespace seperated list of patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # whitespace seperated list of patches to include
 version = "auto"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
