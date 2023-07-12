@@ -10,6 +10,7 @@ Get the [latest CI release](https://github.com/NoName-exe/revanced-extended/rele
  * Updated with the latest versions of patches.
  * Cleans APKs from unneeded libs to make them smaller.
  * Fully open-source, every binary or APK is compiled without human intervention.
+ * made by me for to use without microg-support
  * Modules:
      * Recompile invalidated odex for YouTube and YouTube-Music for faster usage.
      * Receive updates from Magisk app.
